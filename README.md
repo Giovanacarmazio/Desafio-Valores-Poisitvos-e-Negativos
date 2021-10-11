@@ -1,4 +1,4 @@
-#Valores Positivos e Negativos
+Valores Positivos e Negativos
 
 
 Criação de um programa que leia 6 valores. Poderá receber valores negativos e/ou positivos como entrada, devendo desconsiderar os valores nulos. Em seguida, é apresentado a quantidade de valores positivos digitados.
